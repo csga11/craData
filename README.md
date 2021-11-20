@@ -1,3 +1,5 @@
 # craData
-# "*.jpg"  are crack images.
-# "*.json" are  lables.
+
+"*.jpg"  are crack images.
+
+"*.json" are  lables.
