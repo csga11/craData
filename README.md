@@ -2,4 +2,4 @@
 
 "*.jpg"  are crack images.
 
-"*.json" are  lables.
+"*.json" is lable file.
